@@ -20,8 +20,9 @@ The two sample t-test was used to test whether the unknown population means of t
 
 
 Datasets:
-https://data.ca.gov/dataset/water-quality-data
-https://cdn.nar.realtor/sites/default/files/documents/2022-q1-county-median-home-prices-and-monthly-mortgage-payment-by-state-08-08-2022.pdf
+1. https://data.ca.gov/dataset/water-quality-data
+
+2. https://cdn.nar.realtor/sites/default/files/documents/2022-q1-county-median-home-prices-and-monthly-mortgage-payment-by-state-08-08-2022.pdf
 
 Brief description of the dataset:
 The quality of water dataset contains DWR-collected, current and historical, chemical and physical parameters found in drinking water, groundwater, and surface waters throughout the state of California. “N” or the number of observations for each parameter varies, whose values are given below.
