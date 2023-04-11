@@ -1,6 +1,6 @@
 # Quality-of-water-California
 
-This is a research project as part of the coursework at the University of Maryland, College Park.
+This is a research project as part of the coursework (INST627-Data Analytics) at the University of Maryland, College Park.
 
 Research Question: Does the Water Quality Vary Between Modoc County, CA and Santa Clara County, CA?
 
