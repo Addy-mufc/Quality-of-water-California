@@ -17,3 +17,18 @@ Data was collected from several sources which includes:
 A dataset was created after merging data from various sources, cleaning it and refining it for anaylsis.
 
 The two sample t-test was used to test whether the unknown population means of two groups are equal or not.
+
+
+Datasets:
+https://data.ca.gov/dataset/water-quality-data
+https://cdn.nar.realtor/sites/default/files/documents/2022-q1-county-median-home-prices-and-monthly-mortgage-payment-by-state-08-08-2022.pdf
+
+Brief description of the dataset:
+The quality of water dataset contains DWR-collected, current and historical, chemical and physical parameters found in drinking water, groundwater, and surface waters throughout the state of California. “N” or the number of observations for each parameter varies, whose values are given below.
+County median home price and property value dataset contains the median home price of all the counties in the US where we picked one of the highest median home price counties and the lowest median home price county in the state of California.
+
+Description of the dependent variables:
+We are measuring water quality based on the levels of dissolved oxygen, Specific Conductance, pH and turbidity. Descriptive statistics can be found in the rest of the document.
+Description of the independent variables:
+The independent variables are the median home prices in Modoc County and Santa Clara County. Descriptive statistics can be found in the rest of the document. Modoc county has a median home price of $192,800. Santa Clara has a median home price of $1,296,980.
+
