@@ -33,3 +33,8 @@ We are measuring water quality based on the levels of dissolved oxygen, Specific
 Description of the independent variables:
 The independent variables are the median home prices in Modoc County and Santa Clara County. Descriptive statistics can be found in the rest of the document. Modoc county has a median home price of $192,800. Santa Clara has a median home price of $1,296,980.
 
+
+Research Conclusion:
+To conclude, the practical implication of the research is that the quality of water is different between Modoc County, a poor county, and Santa Clara County, a rich county. The findings can be used to study why certain water quality parameters are worse in these counties. The California State Water Resource Control Board must look into this matter and ensure all residents are provided with the same quality of water regardless of the county they live in. For further research, we recommend first looking at comparisons between other counties in California, and then pursuing other states in the United States. 
+
+
