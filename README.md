@@ -14,7 +14,7 @@ Data was collected from several sources which includes:
 1. National Association of Realtors
 2. California Open Data Portal
 
-A dataset was created after merging data from various sources, cleaning it and refining it for anaylsis.
+A dataset was created after merging data from various sources, cleaning it and refining it for analysis.
 
 The two sample t-test was used to test whether the unknown population means of two groups are equal or not.
 
